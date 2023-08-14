@@ -1,0 +1,14 @@
+payment id
+Customer id
+customer name
+Mobile
+Address
+Medicine name 
+Aafect on 
+saleqtn
+price 
+paid by
+
+
+select sum(cost) from payInfo
+select * from payInfo
